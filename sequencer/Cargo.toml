@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "sequencer-lib",
+    "sequencer-http",
+    "counter-kernel"
+]
